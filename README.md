@@ -2,7 +2,7 @@
 
 Projeto Individual do Módulo 4 do Curso Programadores Carioca - SENAC/Resilia
     
-    ![Screenshot](odio.png)
+    <a href="./odio.png"></a>
     
 <h2>Sobre o projeto:</h2>
 Existem outras entidades além dessas três?
